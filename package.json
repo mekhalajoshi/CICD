@@ -1,5 +1,5 @@
 {
-  "name": "bones",
+  "name": "cicd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "jest": "^24.9.0",
-    "react-test-renderer": "^16.12.0", 
+    "react-test-renderer": "^16.12.0",
     "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.18.3"
   },
